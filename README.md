@@ -8,6 +8,13 @@
 
 ![MCU](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/bbda7c5f-ed47-44d9-9caf-b40631f4c335)
 
+<br>
+<br>
+<div align="center">
+  Here are the data that will be used throughout the discussion. If you want to have access on the original file, you can go here https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
+</div>
+
+
 
 
 
