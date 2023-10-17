@@ -1,4 +1,4 @@
-# Movie_MCU-Dataset_GROUP8
+# Marvel Cinematic Universe Dataset - GROUP8_MOVIES
 
 <div align="center">
   <strong>This repository contains dashboards for Marvel Cinematic Universe Box Office Dataset starting from the year 2008 to year 2021.</strong>
