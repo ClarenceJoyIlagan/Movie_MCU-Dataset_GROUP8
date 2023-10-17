@@ -305,23 +305,68 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **IF Function**
+>The **IF function** is one of the most fundamental and widely used functions in Excel. It is essential for making logical decisions and performing different actions based on specific conditions. The IF function allows you to create conditional statements in your spreadsheets. The basic syntax for this function is **=IF(logical_test, value_if_true, value_if_false)**
+
+>**logical_test** is a condition that you want to evaluate. If this condition is met, the function returns value_if_true. If the condition is not met, the function returns value_if_false.
+
+>**value_if_true** is the value that the function returns if the logical_test evaluates to TRUE.
+
+>**value_if_false** is the value that the function returns if the logical_test evaluates to FALSE.
+
+<div align="center">
+  <strong>This data used the IF Function by comparing the production budget for the films and its box office sales</strong>
+</div>
+
+<div align="center">
+  <strong>from the opening weekend, domestic, and worldwide sales to determine if it gained Profit or Loss</strong>
+</div>
+
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/894681f5-708a-4aba-8e10-e24d12bd81e4">
 </p>
-
+<br>
+<br>
 
 **AND Function**
+>The **AND function** is a logical function that allows you to perform a logical "AND" operation on multiple conditions. It returns TRUE if all the specified conditions are met, and FALSE if any one of the conditions is not met. The basic syntax for this function is **=AND(logical1, logical2, logical3, ...)**
+
+>**logical1, logical2, logical3,** and so on are the conditions or logical tests you want to evaluate
+
+
+<div align="center">
+  <strong>For this dataset, AND Function was used to determine if all of the three sales are greater than the</strong>
+</div>
+
+<div align="center">
+  <strong>production budget</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/9617ca6b-f39f-4188-8800-677c49e645a3">
 </p>
+<br>
+<br>
 
 **OR Function**
+>The **OR function** is a logical function that allows you to perform a logical "OR" operation on multiple conditions. It returns TRUE if at least one of the specified conditions is true, and FALSE only if all of the conditions are false. Here's the basic syntax for this function is **=OR(logical1, logical2, logical3, ...)**
+
+>logical1, logical2, logical3, and so on are the conditions or logical tests you want to evaluate. You can include up to 255 different conditions.
+
+
+<div align="center">
+  <strong>For this table of values, OR Function was used to determine if either of the three sales are greater than the</strong>
+</div>
+
+<div align="center">
+  <strong>production budget</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ec2724ba-5e43-40ba-9d80-a60c297582ed">
 </p>
+<br>
+<br>
 
 **NOT Function**
 
