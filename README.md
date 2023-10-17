@@ -201,6 +201,19 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 <br>
 
 **LOOKUP Function**
+>The **LOOKUP function** is used to find a specific value within a range of cells and return a corresponding value from another range. The basic syntax for this function is **=LOOKUP(lookup_value, lookup_vector, result_vector)**
+
+>**lookup_value** corrrespondst to the value you want to find within the lookup_vector. It can be a number, text, or logical value.
+
+>**lookup_vector** is the range of cells where Excel searches for the lookup_value. The values in this range must be sorted in ascending order.
+
+>**result_vector**: is the range of cells from which you want to retrieve the corresponding value. The result_vector should be in the same row or column as the lookup_vector.
+
+<br>
+<br>
+<div align="center">
+  <strong>For this table of values, the LOOKUP Function was used to find the Marvel movies based on its release date</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5a2fc70f-da6f-4c2d-9540-2d08562591fa">
@@ -240,7 +253,6 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 <br>
 
 # LOGICAL Functions
-<br>
 
 Logical functions in Excel are a category of functions that help make decisions and perform calculations based on conditions or logical tests. These functions are crucial for creating more complex and dynamic spreadsheets, automating tasks, and performing data analysis. For this part of discussion, IF Function, AND Function, OR Function, NOT Function and OR Function will be used.
 <br>
@@ -286,7 +298,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 
 # INFORMATION Functions
-<br>
+
 Information functions are a category of functions that provide various types of information about data, cells, or ranges within a spreadsheet. These functions are important for retrieving metadata, such as cell content, formatting, and characteristics. For this part of discussion, ISEVEN Function, ISODD Function, ISNUMBER Function, ISTEXT Function, and ISLOGICAL Function will be shown.
 <br>
 <br>
