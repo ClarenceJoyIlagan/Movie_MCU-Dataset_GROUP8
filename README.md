@@ -369,10 +369,19 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **NOT Function**
+>The **NOT function** is a logical function that allows you to perform a logical "NOT" operation on a single condition. It returns TRUE if the specified condition is false and FALSE if the condition is true. The basic syntax for this function is **=NOT(logical)**
+
+>**logical** is the condition or logical test you want to evaluate.
+
+<div align="center">
+  <strong>For this dataset, NOT Function was used to negate the F column</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/052af042-7644-4162-b9d4-91bafbe20901">
 </p>
+<br>
+<br>
 
 **XOR Function**
 
