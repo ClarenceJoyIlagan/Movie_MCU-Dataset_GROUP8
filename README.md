@@ -5,14 +5,26 @@
 </div>  
 
 <br> 
+<br>
 
 ![MCU](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/bbda7c5f-ed47-44d9-9caf-b40631f4c335)
-
 <br>
 <br>
 <div align="center">
-  Here are the data that will be used throughout the discussion. If you want to have access on the original file, you can go here https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
+  Here are the data that will be used throughout the discussion. If you want to see it clearly or if you want to have access on the original file, you can go here https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
 </div>
+
+![DATA](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c124aa66-ccff-45ed-a520-c3715ed9d4f8)
+
+
+
+
+![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
+
+
+
+
+
 
 
 
