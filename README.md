@@ -189,7 +189,38 @@ Math Function generally refers to a category of mathematical functions and opera
 </div>
 <br>
 
+# LOOKUP Functions
 
+
+**LOOKUP Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5a2fc70f-da6f-4c2d-9540-2d08562591fa">
+</p>
+
+
+**VLOOKUP Function**
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a7719536-98a9-481e-a1a4-ac719ae8da17">
+</p>
+
+**MATCHUP Function**
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/16337bcc-ac17-427c-8848-081eed6ad4c1">
+</p>
+
+
+**CHOOSE Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e9b48ba-8faa-460e-83a0-f266ebefadd0">
+</p>
+
+**AREAS Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
+</p>
 
 ![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
 
