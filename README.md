@@ -23,6 +23,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <br>
 **LEN Function**
 
+![LENGTH FUNCTION](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/8acf209c-951a-46c5-9baa-64df71234724)
+
+
+
 
 Overall, the TEXT function is a versatile tool in Excel that plays a significant role in data formatting and presentation, making data more understandable and visually appealing. It's widely used in financial, accounting, and data analysis tasks, among others.
 ![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
