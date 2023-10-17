@@ -128,11 +128,28 @@ Math Function generally refers to a category of mathematical functions and opera
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c593455b-bece-4f40-98d9-f26762325e33">
 </p>
+<br>
 
 
+**MIN & MAX Function**
 
-**MIN & MAX Fuction**
+>The **MIN and MAX Functions** are mathematical functions used to find the minimum (lowest) and maximum (highest) values within a range of numbers or cells, respectively. These functions are essential for various tasks, particularly when you need to identify the extremes or boundaries of a dataset.
 
+>The **MIN Function** is used to find the smallest value in a set of numbers. The basic syntax for this function is **=MIN(number1, number2, ...)** where **number1, number2, ...** represents the individual numbers or cell references you want to compare to find the minimum value.
+
+>For example, if you have a range of test scores in cells A1 to A10, you can use **=MIN(A1:A10).** It will return the lowest test score in that range.
+
+>**MAX Function**, on the other hand, is used to find the largest value in a set of numbers. The basic syntax for this function is **=MAX(number1, number2, ...)**
+
+>If you have a range of sales figures in cells B1 to B10, you can use **=MAX(B1:B10).** It will return the highest sales figure in that range.
+<br>
+
+<div align="center">
+  <strong>For this table of values, MIN and MAX functions were used to get the minimum and maximum sales of the movies</strong>
+</div>
+<div align="center">
+  <strong>from its opening weekend, its domestic box office and from its worldwide box office.</strong>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/e41c389c-db14-4e32-abec-c4098ea4b2e3">
 </p>
