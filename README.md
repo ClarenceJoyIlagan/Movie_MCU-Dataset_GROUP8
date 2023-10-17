@@ -68,13 +68,19 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a4ef7a44-61c1-4759-b732-be4d49c40cc5">
 </p>
 
+<br>
+<br>
+
+<div align="center">
+  <strong>Overall, the TEXT function is a versatile tool in Excel that plays a significant role in data formatting and presentation, making data more understandable and visually appealing. It's widely used in financial, accounting, and data analysis tasks, among others.</strong>
+</div>
+
+<br>
+<br>
+
+# Math Functions
 
 
-
-
-
-
-Overall, the TEXT function is a versatile tool in Excel that plays a significant role in data formatting and presentation, making data more understandable and visually appealing. It's widely used in financial, accounting, and data analysis tasks, among others.
 
 
 
