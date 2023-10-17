@@ -262,6 +262,41 @@ Math Function generally refers to a category of mathematical functions and opera
 
 # INFORMATION Functions
 
+**ISEVEN Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/6738b22a-f274-4a76-b06b-d3d55618e27f">
+</p>
+
+
+**ISODD Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/86562025-748f-4a16-9902-053fbd2a9924">
+</p>
+
+
+**ISNUMBER Function**
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ab028216-79dd-42b7-9062-b441c00818aa">
+</p>
+
+
+**ISTEXT Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5d88f5fb-26b7-49ae-907e-4f9e3de4f210">
+</p>
+
+
+**ISLOGICAL Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4f598f95-99fd-4484-aa01-a59fdcd40bcc">
+</p>
+
 
 # DATE and TIME Functions
 
