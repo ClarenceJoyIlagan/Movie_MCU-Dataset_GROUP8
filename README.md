@@ -19,12 +19,18 @@
 # Text Function
 
 In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
+
 <br>
 <br>
 **LEN Function**
+<br>
+The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is
+$$
+=LEN(text)
+$$
+For example, if cell A1 contains the text "Iron Man", then you can use =LEN(A1). The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
 
-
-![LENGTH FUNCTION (4)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/9001aa95-e6cf-4df1-894e-9bec3ad06cbd)
+![LENGTH FUNCTION (4)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/9001aa95-e6cf-4df1-894e-9bec3ad06cbd) 
 
 
 
