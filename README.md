@@ -21,15 +21,50 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <br>
 <br>
 
-**LEN Function**
+
+_**LEN Function**_
 <br>
 >The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
 
 >For example, if cell A1 contains the text "Iron Man", then you can use **=LEN(A1).** The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
 
-
-<p align="left">
+<p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/cc708df8-ec60-4c8b-9e78-260b0e57e828">
+</p>
+<br>
+
+_**UPPER Function**_
+
+>The **UPPER function** is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is **=UPPER(text)**.
+
+>For example, if cell A1 contains the text "Iron Man", then you can use **=UPPER(A1).** The result will be "IRON MAN" as all the letters are converted to uppercase.
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/02d64771-65e4-4cb7-93e3-65df5b0d575c">
+</p>
+<br>
+
+**LOWER Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c802a37e-66a7-4be0-b0e3-7d2947f0c44a">
+</p>
+
+**PROPER Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/61ea976d-d8da-4eef-aec2-bc53821b25dc">
+</p>
+
+
+
+
+
+
+**LEFT Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a4ef7a44-61c1-4759-b732-be4d49c40cc5">
 </p>
 
 
@@ -39,6 +74,14 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 
 Overall, the TEXT function is a versatile tool in Excel that plays a significant role in data formatting and presentation, making data more understandable and visually appealing. It's widely used in financial, accounting, and data analysis tasks, among others.
+
+
+
+
+
+
+
+
 ![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
 
 
