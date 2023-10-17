@@ -308,23 +308,23 @@ Math Function generally refers to a category of mathematical functions and opera
 </p>
 
 
-**WWEEKNUM Function**
-
+**WEEKNUM Function**
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/d8d30ac7-99db-4112-b07e-2d7ab20bc3ba">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/21c358fe-6520-4b9e-a4be-99f11978a913">
 </p>
 
 **DATE Function**
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/67192ab6-6cb1-489a-a15b-aaa234f6c5dc">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/23a9684b-548a-4cb8-be98-840c79457cf6">
 </p>
 
 **WEEKDAY Function**
 
+
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/69e26d12-ab5e-41ab-be7a-6ec9e9026c83">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f15ff7ce-3eb8-4288-b38d-848018d75871">
 </p>
 
 
@@ -332,7 +332,7 @@ Math Function generally refers to a category of mathematical functions and opera
 
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/014252e8-b0f7-4422-9585-4f278916bcfd">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/b2292e9a-a66b-4a51-bb1f-1717952d052a">
 </p>
 
 
