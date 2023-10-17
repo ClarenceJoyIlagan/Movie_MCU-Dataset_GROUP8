@@ -1,10 +1,6 @@
-# Marvel Cinematic Universe Dataset - GROUP8_MOVIES
-_**Authors**_- _Niela Mae Dimaculangan, Clarence Joy Ilagan and April Rhose Mercado_
-
 <div align="center">
   <strong>This repository contains dashboards for Marvel Cinematic Universe Box Office Dataset starting from the year 2008 to year 2021.</strong>
 </div>  
-
 <br>
 
 ![MCU](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/bbda7c5f-ed47-44d9-9caf-b40631f4c335)
@@ -22,98 +18,95 @@ _**Authors**_- _Niela Mae Dimaculangan, Clarence Joy Ilagan and April Rhose Merc
   <img src="https://github.com/NielaMaeD/Movie_MCU-Dataset_GROUP8/assets/144228573/3a5b863f-cc62-467d-a1a0-d6cfc116369f">
 </p>
 
-
-# Text Function
-
+### EXCEL FUNCTIONS
+<details>
+<summary>Text Function</summary>
+  
 In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
-<br>
-<br>
 
-
-**LEN Function**
-<br>
->The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
-
->For example, if cell A1 contains the text "Iron Man", then you can use **=LEN(A1).** The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
-
-<p align="center">
+<details>
+  <summary>LEN Function</summary>
+  The LEN function is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is =LEN(text). 
+  <br>
+  <br>
+  For example, if cell A1 contains the text "Iron Man", then you can use =LEN(A1). The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/cc708df8-ec60-4c8b-9e78-260b0e57e828">
-</p>
-<br>
+  </p>
+</details>
 
-**UPPER Function**
-
->The **UPPER function** is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is **=UPPER(text)**.
-
->For example, if cell A1 contains the text "Iron Man", then you can use **=UPPER(A1).** The result will be "IRON MAN" as all the letters are converted to uppercase.
-
-<p align="center">
+<details>
+  <summary>UPPER Function</summary>
+  The UPPER function is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is UPPER(text).
+  For example, if cell A1 contains the text "Iron Man", then you can use =UPPER(A1). The result will be "IRON MAN" as all the letters are converted to uppercase.
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/02d64771-65e4-4cb7-93e3-65df5b0d575c">
-</p>
-<br>
+  </p>
+</details>
 
-**LOWER Function**
-
->The **LOWER function** is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is **=LOWER(text)**.
-
->For example, if cell A1 contains the text "Thor" or "THOR", then you can use **=LOWER(A1).** The result will be "thor" as all the letters are converted to lowercase.
-
-<p align="center">
+<details>
+  <summary>LOWER Function</summary>
+  The LOWER function is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is =LOWER(text).
+  For example, if cell A1 contains the text "Thor" or "THOR", then you can use =LOWER(A1). The result will be "thor" as all the letters are converted to lowercase.
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c802a37e-66a7-4be0-b0e3-7d2947f0c44a">
-</p>
+  </p>  
+</details>
 
-**PROPER Function**
->The **PROPER function** is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is **=PROPER(text)**.
-
->For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use **=PROPER(A1).** The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
-<p align="center">
+<details>
+  <summary>PROPER Function</summary>
+  -The PROPER function is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is =PROPER(text).
+  <br>
+  -For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use =PROPER(A1). The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/61ea976d-d8da-4eef-aec2-bc53821b25dc">
-</p>
+  </p>
+</details>
 
-**LEFT Function**
->The **LEFT function** is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is **=LEFT(text, num_chars)**.
-
->For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use **=LEFT(B4, 4).** The result will be "Iron".
-
-<p align="center">
+<details>
+  <summary>LEFT Function</summary>
+  -The LEFT function is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is =LEFT(text, num_chars).
+  -For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use =LEFT(B4, 4). The result will be "Iron".
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a4ef7a44-61c1-4759-b732-be4d49c40cc5">
-</p>
-
-<br>
-<br>
+  </p>
+</details>
 
 <div align="center">
   <strong>Overall, the TEXT function is a versatile tool in Excel that plays a significant role in data formatting and presentation, making data more understandable and visually appealing. It's widely used in financial, accounting, and data analysis tasks, among others.</strong>
 </div>
 
+</details>
+
+<details>
+  <summary>Math Functions</summary>
+  Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAC function, ROUND Function, and TRUNC function will be shown.
 <br>
-<br>
-
-# Math Functions
-
-Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAC function, ROUND Function, and TRUNC function will be shown.
-<br>
-<br>
-
-**SUM Function**
-
->The **SUM function** is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is **=SUM(number1, number2, ...)**.
-
->For example, if you have a range of numbers in cells A1 to A5, you can use **=SUM(A1:A5)**
-
->The SUM function will add up all the values in cells A1 to A5 and return the total.
-<br>
-<div align="center">
-  <strong>For this table of values, SUM function was used to get the total sales of the movies from its opening weekend,</strong>
-</div>
-<div align="center">
-  <strong>its domestic box office and from its worldwide box office.</strong>
-</div>
-
-<p align="center">
+  <details>
+    <summary>SUM Function</summary>
+    The SUM function is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is =SUM(number1, number2, ...).
+    <br>
+    For example, if you have a range of numbers in cells A1 to A5, you can use =SUM(A1:A5)
+    <br>
+    The SUM function will add up all the values in cells A1 to A5 and return the total.
+    <br>
+  <div align="center">
+    <strong>For this table of values, SUM function was used to get the total sales of the movies from its opening weekend,</strong>
+  </div>
+  <div align="center">
+    <strong>its domestic box office and from its worldwide box office.</strong>
+  </div>
+  <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/99a131b7-7208-409a-aa04-8de18144db21">
-</p>
-<br>
+  </p>
+  <br>
+  </details>
+</details>
+
+
+
+
+
 
 **AVERAGE Function**
 
