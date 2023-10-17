@@ -81,15 +81,42 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 # Math Functions
 
 
+**SUM Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/99a131b7-7208-409a-aa04-8de18144db21">
+</p>
+
+
 **TRUNC Function**
 
-![TRUNC FUNCTION (1)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5)
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5">
+</p>
+
+
+**ROUND Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4bcd7e49-2ca6-4e30-bdc0-e09b76220b8b">
+</p>
+
+
+
+**AVERAGE Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c593455b-bece-4f40-98d9-f26762325e33">
+</p>
 
 
 
 
+**MIN & MAX Fuction**
 
-
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/e41c389c-db14-4e32-abec-c4098ea4b2e3">
+</p>
 
 
 
