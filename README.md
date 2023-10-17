@@ -81,6 +81,12 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 # Math Functions
 
 
+**TRUNC Function**
+
+![TRUNC FUNCTION (1)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5)
+
+
+
 
 
 
