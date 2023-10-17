@@ -22,7 +22,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <br>
 
 
-_**LEN Function**_
+**LEN Function**
 <br>
 >The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
 
@@ -33,7 +33,7 @@ _**LEN Function**_
 </p>
 <br>
 
-_**UPPER Function**_
+**UPPER Function**
 
 >The **UPPER function** is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is **=UPPER(text)**.
 
@@ -46,22 +46,23 @@ _**UPPER Function**_
 
 **LOWER Function**
 
+>The **LOWER function** is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is **=LOWER(text)**.
+>For example, if cell A1 contains the text "Thor" or "THOR", then you can use **=LOWER(A1).** The result will be "thor" as all the letters are converted to lowercase.
+
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c802a37e-66a7-4be0-b0e3-7d2947f0c44a">
 </p>
 
 **PROPER Function**
-
+>The **PROPER function** is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is **=PROPER(text)**.
+>For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use **=PROPER(A1).** The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/61ea976d-d8da-4eef-aec2-bc53821b25dc">
 </p>
 
-
-
-
-
-
 **LEFT Function**
+>The **LEFT function** is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is **=LEFT(text, num_chars)**.
+>For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use **=LEFT(B4, 4).** The result will be "Iron".
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a4ef7a44-61c1-4759-b732-be4d49c40cc5">
@@ -96,4 +97,5 @@ Overall, the TEXT function is a versatile tool in Excel that plays a significant
 # **References**
 <br>
 - Ong, D. (2022, April, 22). Marvel Cinematic Universe Box Office Dataset. Kaggle . https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data
+
 - [Image of a Marvel Cinematic Universe Poster](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/defibp5-8019b091-dae8-426d-8276-7b6d15afcce8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg8). (n.d.)
