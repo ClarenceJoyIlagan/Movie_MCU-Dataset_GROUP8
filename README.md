@@ -88,27 +88,11 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 </p>
 
 
-**TRUNC Function**
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5">
-</p>
-
-
-**ROUND Function**
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4bcd7e49-2ca6-4e30-bdc0-e09b76220b8b">
-</p>
-
-
-
 **AVERAGE Function**
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c593455b-bece-4f40-98d9-f26762325e33">
 </p>
-
 
 
 
@@ -119,6 +103,21 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 </p>
 
 
+**ROUND Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4bcd7e49-2ca6-4e30-bdc0-e09b76220b8b">
+</p>
+
+
+**TRUNC Function**
+
+>The **TRUNC function** is used to truncate a number to a specified number of decimal places. It essentially removes the decimal portion of a number, leaving only the integer part. The basic syntax for this function is **=TRUNC(number, [num_digits])**.
+>The **number** represents the number you want to truncate while **[num digits]** is the number of decimal places you want to truncate the number. If omitted, it defaults to 0 which means the number is truncated to a whole number. 
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5">
+</p>
 
 
 
