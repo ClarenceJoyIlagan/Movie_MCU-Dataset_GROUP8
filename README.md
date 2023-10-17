@@ -175,7 +175,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 **TRUNC Function**
 
->The **TRUNC function** is used to truncate a number to a specified number of decimal places. It essentially removes the decimal portion of a number, leaving only the integer part. The basic syntax for this function is **=TRUNC(number, [num_digits])**.
+>The **TRUNC function** is used to truncate a number to a specified number of decimal places. It essentially removes the decimal portion of a number, leaving only the integer part. The basic syntax for this function is **=TRUNC(number, [num digits])**.
 
 >The **number** represents the number you want to truncate while **[num digits]** is the number of decimal places you want to truncate the number. If omitted, it defaults to 0 which means the number is truncated to a whole number. 
 
@@ -194,7 +194,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 # LOOKUP Functions
 
-In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCHUP, CHOOSE and AREAS Function will be shown.
+In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCH, CHOOSE and AREAS Function will be shown.
 <br>
 
 **LOOKUP Function**
@@ -218,21 +218,70 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 
 
 **VLOOKUP Function**
+
+>The **VLOOKUP function** is one of the most commonly used and important functions for searching and retrieving data from a table or range. "V" in VLOOKUP stands for "vertical," indicating that it is used to search for values in a vertical column. The basic syntax for this function is **=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])**
+
+>**lookup_value** is the value you want to find in the first column of your table or range.
+
+>**table_array** is the range of cells where you want to search for the lookup_value. It should include the column containing the lookup_value and the columns from which you want to retrieve data.
+
+>**col_index_num** is the column number from which you want to retrieve the data. It indicates how many columns to the right of the lookup_value column the data is located.
+
+>**[range_lookup]** is typically either TRUE or FALSE (or 1 or 0). If you use TRUE or omit this argument, VLOOKUP will perform an approximate match, finding the closest match to the lookup_value. If you use FALSE or 0, it will perform an exact match.>
+
+<br>
+<br>
+<div align="center">
+  <strong>For this dataset, the VLOOKUP Function was used to find what phase of MCU the film belongs</strong>
+</div>
+
+
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a7719536-98a9-481e-a1a4-ac719ae8da17">
 </p>
+<br>
+<br>
 
-**MATCHUP Function**
+
+**MATCH Function**
+>The **MATCH function** is used for finding the relative position of a specific value within a range or an array. It gives the position of the item you're looking for. The basic syntax for this function is **=MATCH(lookup_value, lookup_array, [match_type])**
+
+>**lookup_value** is the value you want to find within the lookup_array.
+
+>**lookup_array** is the range or array where you want to search for the lookup_value.
+
+>**[match_type]** specifies the type of match you want to perform. For this example, the match type that was used oughts to find the exact match
+<br>
+<br>
+
+
+<div align="center">
+  <strong>The MATCH Function for this dataset was used to find the position of the films</strong>
+</div>
+
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/16337bcc-ac17-427c-8848-081eed6ad4c1">
 </p>
-
+<br>
+<br>
 
 **CHOOSE Function**
+>The **CHOOSE function** is a simple yet valuable function used to select and return a value from a list of choices based on a specified index number. It allows you to create custom lists or arrays of values and then pick a specific value from that list by providing the index number. The basic syntax for this function is **=CHOOSE(index_num, value1, value2, value3, ...)**
 
+>**index_num** is the index number that indicates which value from the list you want to return. It can be an integer or a reference to a cell containing an integer.
+
+>**value1, value2, value3, ...** are the values that make up the list of choices.
+<br>
+<br>
+
+<div align="center">
+  <strong>For this dataset, CHOOSE Function was used for allocating the Phase Titles of the MCU Films</strong>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e9b48ba-8faa-460e-83a0-f266ebefadd0">
 </p>
+<br>
+<br>
 
 **AREAS Function**
 
