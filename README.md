@@ -11,10 +11,11 @@
 <br>
 <br>
 <div align="center">
-  Here are the data that will be used throughout the discussion. If you want to see it clearly or if you want to have access on the original file, you can go here https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
+  Here are the set of data that will be used throughout the discussion. If you want to see it clearly or if you want to have access on the original file, you can go to this link: https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
 </div>
 
-![DATA](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c124aa66-ccff-45ed-a520-c3715ed9d4f8)
+![DATA SET](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/7b3a412d-be16-4d40-91ff-8784fb58bac6)
+
 
 
 
