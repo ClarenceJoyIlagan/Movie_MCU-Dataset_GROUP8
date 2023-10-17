@@ -13,8 +13,10 @@
   Here are the set of data that will be used throughout the discussion. If you want to see it clearly or if you want to have access on the original file, you can go to this link: https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data 
 </div>
 
-![DATA SET](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/7b3a412d-be16-4d40-91ff-8784fb58bac6)
+![DATA SET (1)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/742c9cf8-9773-40a5-9d22-84fb8da208d4)
+
 <br>
+
 # Text Function
 
 In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
@@ -47,6 +49,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 **LOWER Function**
 
 >The **LOWER function** is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is **=LOWER(text)**.
+
 >For example, if cell A1 contains the text "Thor" or "THOR", then you can use **=LOWER(A1).** The result will be "thor" as all the letters are converted to lowercase.
 
 <p align="center">
@@ -55,6 +58,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 **PROPER Function**
 >The **PROPER function** is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is **=PROPER(text)**.
+
 >For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use **=PROPER(A1).** The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/61ea976d-d8da-4eef-aec2-bc53821b25dc">
@@ -62,6 +66,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 **LEFT Function**
 >The **LEFT function** is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is **=LEFT(text, num_chars)**.
+
 >For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use **=LEFT(B4, 4).** The result will be "Iron".
 
 <p align="center">
@@ -80,8 +85,18 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 # Math Functions
 
+Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAC function, ROUND Function, and TRUNC function will be shown.
+<br>
+<br>
 
 **SUM Function**
+
+>The **SUM function** is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is **=SUM(number1, number2, ...)**.
+
+>For example, if you have a range of numbers in cells A1 through A5, you can use **=SUM(A1:A5)**
+
+>The SUM function will add up all the values in cells A1 through A5 and return the total.
+
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/99a131b7-7208-409a-aa04-8de18144db21">
@@ -119,6 +134,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5">
 </p>
 
+The importance of mathematical functions in Excel and similar tools cannot be overstated. These functions are used in various fields, including finance, engineering, science, statistics, and data analysis. They enable users to perform complex calculations, analyze data, and make informed decisions. Mathematical functions are critical for creating models, generating reports, and solving a wide range of problems in different industries and disciplines.
 
 
 ![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
