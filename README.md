@@ -1,5 +1,3 @@
-## Marvel Cinematic Universe Dataset - GROUP8_MOVIES
-
 <div align="center">
   <strong>This repository contains dashboards for Marvel Cinematic Universe Box Office Dataset starting from the year 2008 to year 2021.</strong>
 </div>  
@@ -192,8 +190,23 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 # LOOKUP Functions
 
+In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCHUP, CHOOSE and AREAS Function will be shown.
+<br>
 
 **LOOKUP Function**
+>The **LOOKUP function** is used to find a specific value within a range of cells and return a corresponding value from another range. The basic syntax for this function is **=LOOKUP(lookup_value, lookup_vector, result_vector)**
+
+>**lookup_value** corrrespondst to the value you want to find within the lookup_vector. It can be a number, text, or logical value.
+
+>**lookup_vector** is the range of cells where Excel searches for the lookup_value. The values in this range must be sorted in ascending order.
+
+>**result_vector**: is the range of cells from which you want to retrieve the corresponding value. The result_vector should be in the same row or column as the lookup_vector.
+
+<br>
+<br>
+<div align="center">
+  <strong>For this table of values, the LOOKUP Function was used to find the Marvel movies based on its release date</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5a2fc70f-da6f-4c2d-9540-2d08562591fa">
@@ -223,9 +236,20 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
 </p>
 
+<br>
+<br>
 
+<div align="center">
+<strong>The importance of lookup functions in Excel cannot be overstated because they streamline data retrieval and make working with large datasets more efficient. They are crucial for tasks such as searching for customer data in databases, looking up inventory or product information or retrieving historical or financial data. They allow users to automate the process of searching for and retrieving specific information, saving time and reducing the risk of errors in data-related tasks.</strong>
+</div>
+<br>
+<br>
 
 # LOGICAL Functions
+
+Logical functions in Excel are a category of functions that help make decisions and perform calculations based on conditions or logical tests. These functions are crucial for creating more complex and dynamic spreadsheets, automating tasks, and performing data analysis. For this part of discussion, IF Function, AND Function, OR Function, NOT Function and OR Function will be used.
+<br>
+<br>
 
 **IF Function**
 
@@ -259,9 +283,18 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/271a8938-80f4-45c7-be43-920d7743da93">
 </p>
 
+<div align="center">
+<strong>Logical functions are fundamental to creating dynamic and intelligent spreadsheets that respond to changing data or user inputs. They help streamline data analysis, automate tasks, and ensure that the spreadsheet's behavior adapts to specific conditions, making Excel a versatile tool for various purposes.</strong>
+</div>
+<br>
+<br>
 
 
 # INFORMATION Functions
+
+Information functions are a category of functions that provide various types of information about data, cells, or ranges within a spreadsheet. These functions are important for retrieving metadata, such as cell content, formatting, and characteristics. For this part of discussion, ISEVEN Function, ISODD Function, ISNUMBER Function, ISTEXT Function, and ISLOGICAL Function will be shown.
+<br>
+<br>
 
 **ISEVEN Function**
 
@@ -297,9 +330,25 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4f598f95-99fd-4484-aa01-a59fdcd40bcc">
 </p>
+<br>
+<br>
+
+
+<div align="center">
+<strong>Information functions provide critical details about spreadsheet data and characteristics, contributing to data validation, formatting control, troubleshooting, and creating dynamic and user-friendly reports. While they may not be as commonly used as basic mathematical or logical functions, they play a valuable role in managing and analyzing data effectively in Excel.</strong>
+</div>
+<br>
+<br>
+
+
+
 
 
 # DATE and TIME Functions
+<br>
+Date and time functions are a category of functions used to work with date and time values. These functions are crucial for managing, calculating, and formatting dates and times in spreadsheets. For this part of discussion, DAY, MONTH, YEAR Function, WEEKNUM Function, DATE Function, WEEKNUM Function and EO Function will be shown.
+<br>
+<br>
 
 **DAY, MONTH, YEAR Function**
 
@@ -336,7 +385,14 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/b2292e9a-a66b-4a51-bb1f-1717952d052a">
 </p>
 
+<br>
+<br>
 
+<div align="center">
+<strong>Date and time functions are fundamental for working with temporal data in Excel. It enable users to perform calculations, track events, and create dynamic reports that adapt to changes in date and time values. This makes it a versatile tool for tasks ranging from simple date tracking to complex project management and financial modeling.</strong>
+</div>
+<br>
+<br>
 
 
 
