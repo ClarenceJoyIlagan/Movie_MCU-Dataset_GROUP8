@@ -222,6 +222,52 @@ Math Function generally refers to a category of mathematical functions and opera
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
 </p>
 
+
+
+# LOGICAL Functions
+
+**IF Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/894681f5-708a-4aba-8e10-e24d12bd81e4">
+</p>
+
+
+**AND Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/9617ca6b-f39f-4188-8800-677c49e645a3">
+</p>
+
+**OR Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ec2724ba-5e43-40ba-9d80-a60c297582ed">
+</p>
+
+**NOT Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/052af042-7644-4162-b9d4-91bafbe20901">
+</p>
+
+**XOR Function**
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/271a8938-80f4-45c7-be43-920d7743da93">
+</p>
+
+
+
+# INFORMATION Functions
+
+
+# DATE and TIME Functions
+
+
+
+
 ![red velvet chibi](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f7c3aa0b-26f8-4ab3-955e-29c6e91f25f5)
 
 
