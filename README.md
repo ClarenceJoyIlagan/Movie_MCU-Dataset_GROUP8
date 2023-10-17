@@ -300,6 +300,41 @@ Math Function generally refers to a category of mathematical functions and opera
 
 # DATE and TIME Functions
 
+**DAY, MONTH, YEAR Function**
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4915db68-b07e-431a-bcf2-a60b55ddd614">
+</p>
+
+
+**WWEEKNUM Function**
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/d8d30ac7-99db-4112-b07e-2d7ab20bc3ba">
+</p>
+
+**DATE Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/67192ab6-6cb1-489a-a15b-aaa234f6c5dc">
+</p>
+
+**WEEKDAY Function**
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/69e26d12-ab5e-41ab-be7a-6ec9e9026c83">
+</p>
+
+
+**EOMONTH Function**
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/014252e8-b0f7-4422-9585-4f278916bcfd">
+</p>
+
 
 
 
