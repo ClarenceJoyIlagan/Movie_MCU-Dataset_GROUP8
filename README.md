@@ -93,17 +93,37 @@ Math Function generally refers to a category of mathematical functions and opera
 
 >The **SUM function** is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is **=SUM(number1, number2, ...)**.
 
->For example, if you have a range of numbers in cells A1 through A5, you can use **=SUM(A1:A5)**
+>For example, if you have a range of numbers in cells A1 to A5, you can use **=SUM(A1:A5)**
 
->The SUM function will add up all the values in cells A1 through A5 and return the total.
-
+>The SUM function will add up all the values in cells A1 to A5 and return the total.
+<br>
+<div align="center">
+  <strong>For this table of values, SUM function was used to get the total sales of the movies from its opening weekend,</strong>
+</div>
+<div align="center">
+  <strong>its domestic box office and from its worldwide box office.</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/99a131b7-7208-409a-aa04-8de18144db21">
 </p>
-
+<br>
 
 **AVERAGE Function**
+
+>The **AVERAGE function** is a mathematical function used to calculate the average or arithmetic mean of a set of numbers. It is an essential tool for analyzing data and deriving a central tendency or average value. The basic syntax for this function is **=AVERAGE(number1, number2, ...)**
+
+>For example, if you have a range of test scores in cells A1 to A10, you can use **=AVERAGE(A1:A10)**
+
+>The AVERAGE function will calculate the average of the test scores in cells A1 to A10 and return the result.
+
+<br>
+<div align="center">
+  <strong>For this table of values, AVERAGE function was used to get the average sales of the movies from its opening weekend,</strong>
+</div>
+<div align="center">
+  <strong>its domestic box office and from its worldwide box office.</strong>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c593455b-bece-4f40-98d9-f26762325e33">
