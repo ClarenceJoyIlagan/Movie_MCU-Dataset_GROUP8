@@ -24,6 +24,8 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 **LEN Function**
 
 ![LENGTH FUNCTION](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/8acf209c-951a-46c5-9baa-64df71234724)
+<img src="![LENGTH FUNCTION](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/8536819f-b78b-4001-8518-ea87a8af713c)
+" width="500" height="500">
 
 
 
