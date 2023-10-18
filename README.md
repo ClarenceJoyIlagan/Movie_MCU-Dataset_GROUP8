@@ -1,9 +1,16 @@
-# Marvel Cinematic Universe Box Office Dataset - Group 8
+<div style="text-align: center;">
+  <div align="center">
+    <h1>Marvel Cinematic Universe Box Office Dataset</h1>
+  </div>
+</div>
+
 ![marvel group8](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3dbd2a98-8e66-4a39-b06b-a6bf3f50b1cb)
 
 <div align="center">
-  <strong>Authors: Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado</strong>
-  </div>  
+  <div style="font-size: smaller;">
+  Authors: Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado
+  </div>
+</div>  
 <br>
 
 <br>
@@ -22,6 +29,12 @@
 ![DATA SET (1)](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/742c9cf8-9773-40a5-9d22-84fb8da208d4)
 
 <br>
+
+<div style="text-align: center;">
+  <div align="center">
+    <h1>MCU DASHBOARD</h1>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://github.com/NielaMaeD/Movie_MCU-Dataset_GROUP8/assets/144228573/3a5b863f-cc62-467d-a1a0-d6cfc116369f">
