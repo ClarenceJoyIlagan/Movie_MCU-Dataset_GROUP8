@@ -433,9 +433,7 @@ Information functions are a category of functions that provide various types of 
 
 **ISODD Function**
 
-
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
-
 
 <br>
 
@@ -449,6 +447,14 @@ Information functions are a category of functions that provide various types of 
 
 <br>
 <br>
+
+
+
+
+
+
+
+
 
 
 **ISNUMBER Function**
