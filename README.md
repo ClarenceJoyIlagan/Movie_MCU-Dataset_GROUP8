@@ -22,18 +22,18 @@
   <img src="https://github.com/NielaMaeD/Movie_MCU-Dataset_GROUP8/assets/144228573/3a5b863f-cc62-467d-a1a0-d6cfc116369f">
 </p>
 
-### EXCEL FUNCTIONS
+# **EXCEL FUNCTIONS**
 <details>
 <summary>Text Function</summary>
   
-In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
+>In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
 
 <details>
   <summary>LEN Function</summary>
-  The LEN function is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is =LEN(text). 
-  <br>
-  <br>
-  For example, if cell A1 contains the text "Iron Man", then you can use =LEN(A1). The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
+  
+>The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
+
+>For example, if cell A1 contains the text "Iron Man", then you can use **=LEN(A1)**. The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
   <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/cc708df8-ec60-4c8b-9e78-260b0e57e828">
   </p>
@@ -41,8 +41,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>UPPER Function</summary>
-  The UPPER function is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is UPPER(text).
-  For example, if cell A1 contains the text "Iron Man", then you can use =UPPER(A1). The result will be "IRON MAN" as all the letters are converted to uppercase.
+
+>The **UPPER function** is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is UPPER(text).
+
+>For example, if cell A1 contains the text "Iron Man", then you can use **=UPPER(A1)**. The result will be "IRON MAN" as all the letters are converted to uppercase.
   <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/02d64771-65e4-4cb7-93e3-65df5b0d575c">
   </p>
@@ -50,8 +52,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>LOWER Function</summary>
-  The LOWER function is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is =LOWER(text).
-  For example, if cell A1 contains the text "Thor" or "THOR", then you can use =LOWER(A1). The result will be "thor" as all the letters are converted to lowercase.
+  
+>The **LOWER function** is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is **=LOWER(text)**.
+
+>For example, if cell A1 contains the text "Thor" or "THOR", then you can use **=LOWER(A1)**. The result will be "thor" as all the letters are converted to lowercase.
   <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c802a37e-66a7-4be0-b0e3-7d2947f0c44a">
   </p>  
@@ -59,9 +63,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>PROPER Function</summary>
-  -The PROPER function is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is =PROPER(text).
-  <br>
-  -For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use =PROPER(A1). The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
+  
+>The **PROPER function** is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is **=PROPER(text)**.
+
+>For example, if cell A1 contains the text "Guardians of the Galaxy," then you can use **=PROPER(A1)**. The result will be "Guardians Of The Galaxy" as the first letter of each word is capitalized.
   <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/61ea976d-d8da-4eef-aec2-bc53821b25dc">
   </p>
@@ -69,8 +74,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>LEFT Function</summary>
-  -The LEFT function is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is =LEFT(text, num_chars).
-  -For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use =LEFT(B4, 4). The result will be "Iron".
+
+>The **LEFT function** is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is **=LEFT(text, num_chars)**.
+
+>For example, if cell B4 contains the text "Iron Man" and you want to extract the first 4 characters, then you can use **=LEFT(B4, 4)**. The result will be "Iron".
   <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a4ef7a44-61c1-4759-b732-be4d49c40cc5">
   </p>
@@ -84,16 +91,18 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>Math Functions</summary>
-  Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAX function, ROUND Function, and TRUNC function will be shown.
-<br>
+  
+>**Math Function** generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAX function, ROUND Function, and TRUNC function will be shown.
+
   <details>
     <summary>SUM Function</summary>
-    The SUM function is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is =SUM(number1, number2, ...).
-    <br>
-    For example, if you have a range of numbers in cells A1 to A5, you can use =SUM(A1:A5)
-    <br>
-    The SUM function will add up all the values in cells A1 to A5 and return the total.
-    <br>
+    
+>The **SUM function** is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is **=SUM(number1, number2, ...)**.
+
+>For example, if you have a range of numbers in cells A1 to A5, you can use **=SUM(A1:A5)**
+
+>The **SUM function** will add up all the values in cells A1 to A5 and return the total.
+
   <div align="center">
     <strong>For this table of values, SUM function was used to get the total sales of the movies from its opening weekend,</strong>
   </div>
@@ -105,14 +114,9 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   </p>
   <br>
   </details>
-</details>
 
-
-
-
-
-
-**AVERAGE Function**
+  <details>
+    <summary>AVERAGE Function</summary>
 
 >The **AVERAGE function** is a mathematical function used to calculate the average or arithmetic mean of a set of numbers. It is an essential tool for analyzing data and deriving a central tendency or average value. The basic syntax for this function is **=AVERAGE(number1, number2, ...)**
 
@@ -132,10 +136,11 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/c593455b-bece-4f40-98d9-f26762325e33">
 </p>
 <br>
+  </details>
 
-
-**MIN & MAX Function**
-
+  <details>
+    <summary>MIN & MAX Function</summary>
+    
 >The **MIN and MAX Functions** are mathematical functions used to find the minimum (lowest) and maximum (highest) values within a range of numbers or cells, respectively. These functions are essential for various tasks, particularly when you need to identify the extremes or boundaries of a dataset.
 
 >The **MIN Function** is used to find the smallest value in a set of numbers. The basic syntax for this function is **=MIN(number1, number2, ...)** where **number1, number2, ...** represents the individual numbers or cell references you want to compare to find the minimum value.
@@ -155,11 +160,11 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 </div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/e41c389c-db14-4e32-abec-c4098ea4b2e3">
-</p>
-<br>
-<br>
+</p>     
+  </details>
 
-**ROUND Function**
+  <details>
+    <summary>ROUND Function</summary>
 
 >The **ROUND function** is a mathematical function used to round a number to a specified number of decimal places. It is important for several reasons and plays a critical role in various applications. The basic syntax for this function **is =ROUND(number, num_digits)**
 
@@ -170,10 +175,10 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4bcd7e49-2ca6-4e30-bdc0-e09b76220b8b">
 </p>
-<br>
-<br>
+  </details>
 
-**TRUNC Function**
+  <details>
+    <summary>TRUNC Function</summary>
 
 >The **TRUNC function** is used to truncate a number to a specified number of decimal places. It essentially removes the decimal portion of a number, leaving only the integer part. The basic syntax for this function is **=TRUNC(number, [num digits])**.
 
@@ -184,128 +189,22 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f2f84976-7103-4bd7-9f4d-82cf420a59f5">
 </p>
-<br>
-<br>
-
+  </details>
+  
 <div align="center">
   <strong>The importance of mathematical functions in Excel and similar tools cannot be overstated. These functions are used in various fields, including finance, engineering, science, statistics, and data analysis. They enable users to perform complex calculations, analyze data, and make informed decisions. Mathematical functions are critical for creating models, generating reports, and solving a wide range of problems in different industries and disciplines.</strong>
 </div>
-<br>
 
-# LOOKUP Functions
+</details>
 
-In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCH, CHOOSE and AREAS Function will be shown.
-<br>
+<details>
+  <summary>LOGICAL Functions</summary>
+  
+>Logical functions in Excel are a category of functions that help make decisions and perform calculations based on conditions or logical tests. These functions are crucial for creating more complex and dynamic spreadsheets, automating tasks, and performing data analysis. For this part of discussion, IF Function, AND Function, OR Function, NOT Function and OR Function will be used.
 
-**LOOKUP Function**
->The **LOOKUP function** is used to find a specific value within a range of cells and return a corresponding value from another range. The basic syntax for this function is **=LOOKUP(lookup_value, lookup_vector, result_vector)**
+  <details>
+    <summary>IF Function</summary>
 
->**lookup_value** corrrespondst to the value you want to find within the lookup_vector. It can be a number, text, or logical value.
-
->**lookup_vector** is the range of cells where Excel searches for the lookup_value. The values in this range must be sorted in ascending order.
-
->**result_vector**: is the range of cells from which you want to retrieve the corresponding value. The result_vector should be in the same row or column as the lookup_vector.
-
-<br>
-
-<div align="center">
-  <strong>For this table of values, the LOOKUP Function was used to find the Marvel movies based on its release date</strong>
-</div>
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5a2fc70f-da6f-4c2d-9540-2d08562591fa">
-</p>
-
-
-**VLOOKUP Function**
-
->The **VLOOKUP function** is one of the most commonly used and important functions for searching and retrieving data from a table or range. "V" in VLOOKUP stands for "vertical," indicating that it is used to search for values in a vertical column. The basic syntax for this function is **=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])**
-
->**lookup_value** is the value you want to find in the first column of your table or range.
-
->**table_array** is the range of cells where you want to search for the lookup_value. It should include the column containing the lookup_value and the columns from which you want to retrieve data.
-
->**col_index_num** is the column number from which you want to retrieve the data. It indicates how many columns to the right of the lookup_value column the data is located.
-
->**[range_lookup]** is typically either TRUE or FALSE (or 1 or 0). If you use TRUE or omit this argument, VLOOKUP will perform an approximate match, finding the closest match to the lookup_value. If you use FALSE or 0, it will perform an exact match.>
-
-<br>
-
-<div align="center">
-  <strong>For this dataset, the VLOOKUP Function was used to find what phase of MCU the film belongs</strong>
-</div>
-
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a7719536-98a9-481e-a1a4-ac719ae8da17">
-</p>
-<br>
-<br>
-
-
-**MATCH Function**
->The **MATCH function** is used for finding the relative position of a specific value within a range or an array. It gives the position of the item you're looking for. The basic syntax for this function is **=MATCH(lookup_value, lookup_array, [match_type])**
-
->**lookup_value** is the value you want to find within the lookup_array.
-
->**lookup_array** is the range or array where you want to search for the lookup_value.
-
->**[match_type]** specifies the type of match you want to perform. For this example, the match type that was used oughts to find the exact match
-<br>
-
-
-
-<div align="center">
-  <strong>The MATCH Function for this dataset was used to find the position of the films</strong>
-</div>
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4439f788-5015-4f3b-b67a-c4f17ded30b5">
-</p>
-<br>
-<br>
-
-**CHOOSE Function**
->The **CHOOSE function** is a simple yet valuable function used to select and return a value from a list of choices based on a specified index number. It allows you to create custom lists or arrays of values and then pick a specific value from that list by providing the index number. The basic syntax for this function is **=CHOOSE(index_num, value1, value2, value3, ...)**
-
->**index_num** is the index number that indicates which value from the list you want to return. It can be an integer or a reference to a cell containing an integer.
-
->**value1, value2, value3, ...** are the values that make up the list of choices.
-<br>
-
-
-<div align="center">
-  <strong>For this dataset, CHOOSE Function was used for allocating the Phase Titles of the MCU Films</strong>
-</div>
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e9b48ba-8faa-460e-83a0-f266ebefadd0">
-</p>
-<br>
-<br>
-
-**AREAS Function**
->The **AREAS function** is a lookup and reference function that returns the number of areas in a reference. An area is a range of contiguous cells or a single cell. The basic syntax for this function is **=AREAS(reference)** where _reference_ is a reference to a cell or range of cells.
-
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
-</p>
-
-<br>
-
-
-<div align="center">
-<strong>The importance of lookup functions in Excel cannot be overstated because they streamline data retrieval and make working with large datasets more efficient. They are crucial for tasks such as searching for customer data in databases, looking up inventory or product information or retrieving historical or financial data. They allow users to automate the process of searching for and retrieving specific information, saving time and reducing the risk of errors in data-related tasks.</strong>
-</div>
-<br>
-<br>
-
-# LOGICAL Functions
-
-Logical functions in Excel are a category of functions that help make decisions and perform calculations based on conditions or logical tests. These functions are crucial for creating more complex and dynamic spreadsheets, automating tasks, and performing data analysis. For this part of discussion, IF Function, AND Function, OR Function, NOT Function and OR Function will be used.
-<br>
-<br>
-
-**IF Function**
 >The **IF function** is one of the most fundamental and widely used functions in Excel. It is essential for making logical decisions and performing different actions based on specific conditions. The IF function allows you to create conditional statements in your spreadsheets. The basic syntax for this function is **=IF(logical_test, value_if_true, value_if_false)**
 
 >**logical_test** is a condition that you want to evaluate. If this condition is met, the function returns value_if_true. If the condition is not met, the function returns value_if_false.
@@ -327,10 +226,11 @@ Logical functions in Excel are a category of functions that help make decisions 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/894681f5-708a-4aba-8e10-e24d12bd81e4">
 </p>
-<br>
-<br>
+  </details>
 
-**AND Function**
+  <details>
+    <summary>AND Function</summary>
+
 >The **AND function** is a logical function that allows you to perform a logical "AND" operation on multiple conditions. It returns TRUE if all the specified conditions are met, and FALSE if any one of the conditions is not met. The basic syntax for this function is **=AND(logical1, logical2, logical3, ...)**
 
 >**logical1, logical2, logical3,** and so on are the conditions or logical tests you want to evaluate
@@ -346,12 +246,12 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/9617ca6b-f39f-4188-8800-677c49e645a3">
-</p>
-<br>
-<br>
-
-**OR Function**
-
+</p>     
+  </details>
+  
+  <details>
+    <summary>OR Function</summary>
+ 
 >The **OR function** is a logical function that allows you to perform a logical "OR" operation on multiple conditions. It returns TRUE if at least one of the specified conditions is true, and FALSE only if all of the conditions are false. Here's the basic syntax for this function is **=OR(logical1, logical2, logical3, ...)**
 
 >logical1, logical2, logical3, and so on are the conditions or logical tests you want to evaluate. You can include up to 255 different conditions.
@@ -367,11 +267,11 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ec2724ba-5e43-40ba-9d80-a60c297582ed">
-</p>
-<br>
-<br>
+</p>     
+  </details>
 
-**NOT Function**
+  <details>
+    <summary>NOT Function</summary>
 
 >The **NOT function** is a logical function that allows you to perform a logical "NOT" operation on a single condition. It returns TRUE if the specified condition is false and FALSE if the condition is true. The basic syntax for this function is **=NOT(logical)**
 
@@ -385,11 +285,11 @@ Logical functions in Excel are a category of functions that help make decisions 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/052af042-7644-4162-b9d4-91bafbe20901">
 </p>
-<br>
-<br>
+  </details>
 
-**XOR Function**
-
+  <details>
+    <summary>XOR Function</summary>
+    
 >The **XOR function** is a logical function that returns TRUE if one of its arguments is TRUE and FALSE if both arguments are TRUE or neither is TRUE. It is also known as the "exclusive OR" function.
 
 <br>
@@ -403,18 +303,17 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 <div align="center">
 <strong>Logical functions are fundamental to creating dynamic and intelligent spreadsheets that respond to changing data or user inputs. They help streamline data analysis, automate tasks, and ensure that the spreadsheet's behavior adapts to specific conditions, making Excel a versatile tool for various purposes.</strong>
-</div>
-<br>
-<br>
+</div>      
+  </details>
+</details>
 
+<details>
+  <summary>INFORMATION Functions</summary>
+  
+>Information functions are a category of functions that provide various types of information about data, cells, or ranges within a spreadsheet. These functions are important for retrieving metadata, such as cell content, formatting, and characteristics. For this part of discussion, ISEVEN Function, ISODD Function, ISNUMBER Function, ISTEXT Function, and ISLOGICAL Function will be shown.
 
-# INFORMATION Functions
-
-Information functions are a category of functions that provide various types of information about data, cells, or ranges within a spreadsheet. These functions are important for retrieving metadata, such as cell content, formatting, and characteristics. For this part of discussion, ISEVEN Function, ISODD Function, ISNUMBER Function, ISTEXT Function, and ISLOGICAL Function will be shown.
-<br>
-<br>
-
-**ISEVEN Function**
+  <details>
+    <summary>ISEVEN Function</summary>
 
 >The **ISEVEN function** is a logical function that returns TRUE if the specified number is even, and FALSE if the specified number is odd. The basic syntax for this function is **=ISEVEN(number)**
 
@@ -427,11 +326,10 @@ Information functions are a category of functions that provide various types of 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/6738b22a-f274-4a76-b06b-d3d55618e27f">
 </p>
+  </details>
 
-<br>
-<br>
-
-**ISODD Function**
+  <details>
+    <summary>ISODD Function</summary>
 
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
@@ -444,26 +342,13 @@ Information functions are a category of functions that provide various types of 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/86562025-748f-4a16-9902-053fbd2a9924">
 </p>
+  </details>
 
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-**ISNUMBER Function**
+  <details>
+    <summary>ISNUMBER Function</summary>
 
 >The **ISNUMBER function** is a logical function that returns TRUE if the specified value is a number, and FALSE if the specified value is not a number. The basic syntax for this is **ISNUMBER(value)**
-
-
 <br>
-
 <div align="center">
   <strong>ISNUMBER function was used in this table on identifying whether the total movie duration is indeed a number>
 </div>
@@ -471,61 +356,45 @@ Information functions are a category of functions that provide various types of 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ab028216-79dd-42b7-9062-b441c00818aa">
 </p>
-<br>
-<br>
+  </details>
 
-**ISTEXT Function**
+  <details>
+    <summary>ISTEXT Function</summary>
 
 >The **ISTEXT function** is a logical function that returns TRUE if the specified value is text, and FALSE if the specified value is not text. The basic syntax for this function is **=ISTEXT(value)**
-
 <br>
-
-
 <div align="center">
   <strong>ISTEXT function was used in this table on identifying whether the chosen values are text or not>
 </div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5d88f5fb-26b7-49ae-907e-4f9e3de4f210">
 </p>
+  </details>
 
-
-**ISLOGICAL Function**
+  <details>
+    <summary>ISLOGICAL Function</summary>
 
 >The **ISLOGICAL function** is a logical function that returns TRUE if the specified value is a logical value (TRUE or FALSE), and FALSE if the specified value is not a logical value. The basic syntax for this function is **=ISLOGICAL(value)**
-
-
 <br>
-
 <div align="center">
   <strong>ISLOGICAL function was used in this table on identifying whether the chosen values are logical or not>
 </div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4f598f95-99fd-4484-aa01-a59fdcd40bcc">
 </p>
-<br>
-<br>
-
-
+  </details>
 <div align="center">
 <strong>Information functions provide critical details about spreadsheet data and characteristics, contributing to data validation, formatting control, troubleshooting, and creating dynamic and user-friendly reports. While they may not be as commonly used as basic mathematical or logical functions, they play a valuable role in managing and analyzing data effectively in Excel.</strong>
-</div>
-<br>
-<br>
+</div>    
+</details>
 
+<details>
+  <summary>DATE and TIME Functions</summary>
+  
+>Date and time functions are a category of functions used to work with date and time values. These functions are crucial for managing, calculating, and formatting dates and times in spreadsheets. For this part of discussion, DAY, MONTH, YEAR Function, WEEKNUM Function, DATE Function, WEEKNUM Function and EO Function will be shown.
 
-
-
-
-# DATE and TIME Functions
-
-<br>
-
-Date and time functions are a category of functions used to work with date and time values. These functions are crucial for managing, calculating, and formatting dates and times in spreadsheets. For this part of discussion, DAY, MONTH, YEAR Function, WEEKNUM Function, DATE Function, WEEKNUM Function and EO Function will be shown.
-
-<br>
-<br>
-
-**DAY, MONTH, YEAR Function**
+  <details>
+    <summaryDAY, MONTH, YEAR Function></summary>
 
 >The **DAY, MONTH, and YEAR functions** are date and time functions that return the day, month, and year of a date value, respectively. The basic syntax for these functions are;
 
@@ -548,11 +417,11 @@ Date and time functions are a category of functions used to work with date and t
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4915db68-b07e-431a-bcf2-a60b55ddd614">
 </p>
-<br>
-<br>
+  </details>
 
-**WEEKNUM Function**
-
+  <details>
+    <summaryWEEKNUM Function></summary>
+      
 >The **WEEKNUM function** is a date and time function that returns the week number of a date serial number. The week number is based on the ISO standard, which defines the first week of the year as the week that contains the first Thursday of the year. The syntax for this function is **=WEEKNUM(serial_number, return_type)**
 where:
 
@@ -568,11 +437,11 @@ where:
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/21c358fe-6520-4b9e-a4be-99f11978a913">
-</p>
-<br>
-<br>
+</p>      
+  </details>
 
-**DATE Function**
+  <details>
+    <summary>DATE Function</summary>
 
 >The **DATE function** is a date and time function that returns the date serial number that represents a particular date. The date serial number is a number that represents the number of days since January 1, 1900. The syntax for this function is **=DATE(year, month, day)**
 
@@ -584,22 +453,21 @@ where:
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/23a9684b-548a-4cb8-be98-840c79457cf6">
 </p>
+  </details>
 
-<br>
-<br>
-
-**WEEKDAY Function**
+  <details>
+    <summary>WEEKDAY Function</summary>
 
 >The **WEEKDAY function** is a date and time function that returns the day of the week for a given date. The day of the week is returned as a number, with 1 representing Sunday and 7 representing Saturday. The syntax for this function is **=WEEKDAY(date, [return_type])**
-
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/f15ff7ce-3eb8-4288-b38d-848018d75871">
 </p>
+  </details>
 
-
-**EOMONTH Function**
-
+  <details>
+    <summary>EOMONTH Function</summary>
+      
 >The **EOMONTH function** is a date and time function that returns the last day of the month that is a specified number of months before or after a start date. The syntax for this function is **=EOMONTH(start_date, months)**
 
 >**start_date** is the date that you want to use as the starting point for the calculation.
@@ -608,25 +476,122 @@ where:
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/b2292e9a-a66b-4a51-bb1f-1717952d052a">
 </p>
-
-<br>
-<br>
-
+  </details>
 <div align="center">
 <strong>Date and time functions are fundamental for working with temporal data in Excel. It enable users to perform calculations, track events, and create dynamic reports that adapt to changes in date and time values. This makes it a versatile tool for tasks ranging from simple date tracking to complex project management and financial modeling.</strong>
 </div>
+</details>
+
+<details>
+  <summary>LOOKUP Functions</summary>
+
+>In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCH, CHOOSE and AREAS Function will be shown.
+
+  <details>
+    <summary>LOOKUP Function</summary>
+ 
+>The **LOOKUP function** is used to find a specific value within a range of cells and return a corresponding value from another range. The basic syntax for this function is **=LOOKUP(lookup_value, lookup_vector, result_vector)**
+
+>**lookup_value** corrrespondst to the value you want to find within the lookup_vector. It can be a number, text, or logical value.
+
+>**lookup_vector** is the range of cells where Excel searches for the lookup_value. The values in this range must be sorted in ascending order.
+
+>**result_vector**: is the range of cells from which you want to retrieve the corresponding value. The result_vector should be in the same row or column as the lookup_vector.
+
 <br>
+
+<div align="center">
+  <strong>For this table of values, the LOOKUP Function was used to find the Marvel movies based on its release date</strong>
+</div>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5a2fc70f-da6f-4c2d-9540-2d08562591fa">
+</p>
+     
+  </details>
+
+  <details>
+    <summary>VLOOKUP Function</summary>
+    
+>The **VLOOKUP function** is one of the most commonly used and important functions for searching and retrieving data from a table or range. "V" in VLOOKUP stands for "vertical," indicating that it is used to search for values in a vertical column. The basic syntax for this function is **=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])**
+
+>**lookup_value** is the value you want to find in the first column of your table or range.
+
+>**table_array** is the range of cells where you want to search for the lookup_value. It should include the column containing the lookup_value and the columns from which you want to retrieve data.
+
+>**col_index_num** is the column number from which you want to retrieve the data. It indicates how many columns to the right of the lookup_value column the data is located.
+
+>**[range_lookup]** is typically either TRUE or FALSE (or 1 or 0). If you use TRUE or omit this argument, VLOOKUP will perform an approximate match, finding the closest match to the lookup_value. If you use FALSE or 0, it will perform an exact match.>
+
+<br>
+
+<div align="center">
+  <strong>For this dataset, the VLOOKUP Function was used to find what phase of MCU the film belongs</strong>
+</div>
+
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a7719536-98a9-481e-a1a4-ac719ae8da17">
+</p>   
+  </details>
+
+  <details>
+    <summary>MATCH Function</summary>
+    
+>The **MATCH function** is used for finding the relative position of a specific value within a range or an array. It gives the position of the item you're looking for. The basic syntax for this function is **=MATCH(lookup_value, lookup_array, [match_type])**
+
+>**lookup_value** is the value you want to find within the lookup_array.
+
+>**lookup_array** is the range or array where you want to search for the lookup_value.
+
+>**[match_type]** specifies the type of match you want to perform. For this example, the match type that was used oughts to find the exact match
+<br>
+
+<div align="center">
+  <strong>The MATCH Function for this dataset was used to find the position of the films</strong>
+</div>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4439f788-5015-4f3b-b67a-c4f17ded30b5">
+</p>
+  </details>
+
+  <details>
+    <summary>CHOOSE Function</summary>
+
+>The **CHOOSE function** is a simple yet valuable function used to select and return a value from a list of choices based on a specified index number. It allows you to create custom lists or arrays of values and then pick a specific value from that list by providing the index number. The basic syntax for this function is **=CHOOSE(index_num, value1, value2, value3, ...)**
+
+>**index_num** is the index number that indicates which value from the list you want to return. It can be an integer or a reference to a cell containing an integer.
+
+>**value1, value2, value3, ...** are the values that make up the list of choices.
 <br>
 
 
+<div align="center">
+  <strong>For this dataset, CHOOSE Function was used for allocating the Phase Titles of the MCU Films</strong>
+</div>
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e9b48ba-8faa-460e-83a0-f266ebefadd0">
+</p>    
+  </details>
 
+  <details>
+    <summary>AREAS Function</summary>
+    
+>The **AREAS function** is a lookup and reference function that returns the number of areas in a reference. An area is a range of contiguous cells or a single cell. The basic syntax for this function is **=AREAS(reference)** where _reference_ is a reference to a cell or range of cells.
 
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
+</p>
+  </details>
+  
+<div align="center">
+<strong>The importance of lookup functions in Excel cannot be overstated because they streamline data retrieval and make working with large datasets more efficient. They are crucial for tasks such as searching for customer data in databases, looking up inventory or product information or retrieving historical or financial data. They allow users to automate the process of searching for and retrieving specific information, saving time and reducing the risk of errors in data-related tasks.</strong>
+</div>     
 
+</details>
 
-
-
-
-# **References**
+## **References**
 <br>
 - Ong, D. (2022, April, 22). Marvel Cinematic Universe Box Office Dataset. Kaggle . https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data
 
