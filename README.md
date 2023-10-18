@@ -284,6 +284,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 <br>
 
 **AREAS Function**
+>The **AREAS function** is a lookup and reference function that returns the number of areas in a reference. An area is a range of contiguous cells or a single cell. The basic syntax for this function is **=AREAS(reference)** where _reference_ is a reference to a cell or range of cells.
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3e1c6129-97ce-4e17-a7d4-3576e2252474">
@@ -384,11 +385,14 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **XOR Function**
-
+>The **XOR function** is a logical function that returns TRUE if one of its arguments is TRUE and FALSE if both arguments are TRUE or neither is TRUE. It is also known as the "exclusive OR" function.
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/271a8938-80f4-45c7-be43-920d7743da93">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a06fc50f-d42e-4d67-ac18-4a2341c8ae9c">
 </p>
+
+<br>
+<br>
 
 <div align="center">
 <strong>Logical functions are fundamental to creating dynamic and intelligent spreadsheets that respond to changing data or user inputs. They help streamline data analysis, automate tasks, and ensure that the spreadsheet's behavior adapts to specific conditions, making Excel a versatile tool for various purposes.</strong>
@@ -404,36 +408,74 @@ Information functions are a category of functions that provide various types of 
 <br>
 
 **ISEVEN Function**
+>The **ISEVEN function** is a logical function that returns TRUE if the specified number is even, and FALSE if the specified number is odd. The basic syntax for this function is **=ISEVEN(number)**
 
+<br>
+<br>
+<div align="center">
+  <strong>ISEVEN function was used in this table on determining whether the total movie duration is even or not>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/6738b22a-f274-4a76-b06b-d3d55618e27f">
 </p>
-
+<br>
+<br>
 
 **ISODD Function**
+>The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
+<br>
+<br>
+
+<div align="center">
+  <strong>ISODD function was used in this table on determining whether the total movie duration is odd or not>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/86562025-748f-4a16-9902-053fbd2a9924">
 </p>
+<br>
+<br>
 
 
 **ISNUMBER Function**
+>The **ISNUMBER function** is a logical function that returns TRUE if the specified value is a number, and FALSE if the specified value is not a number. The basic syntax for this is **ISNUMBER(value)**
 
+<br>
+<br>
 
+<div align="center">
+  <strong>ISNUMBER function was used in this table on identifying whether the total movie duration is indeed a number>
+</div>
+    
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/ab028216-79dd-42b7-9062-b441c00818aa">
 </p>
-
+<br>
+<br>
 
 **ISTEXT Function**
+>The **ISTEXT function** is a logical function that returns TRUE if the specified value is text, and FALSE if the specified value is not text. The basic syntax for this function is **=ISTEXT(value)**
 
+<br>
+<br>
+
+<div align="center">
+  <strong>ISTEXT function was used in this table on identifying whether the chosen values are text or not>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/5d88f5fb-26b7-49ae-907e-4f9e3de4f210">
 </p>
 
 
 **ISLOGICAL Function**
+>The **ISLOGICAL function** is a logical function that returns TRUE if the specified value is a logical value (TRUE or FALSE), and FALSE if the specified value is not a logical value. The basic syntax for this function is **=ISLOGICAL(value)**
 
+<br>
+<br>
+
+<div align="center">
+  <strong>ISLOGICAL function was used in this table on identifying whether the chosen values are logical or not>
+</div>
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4f598f95-99fd-4484-aa01-a59fdcd40bcc">
 </p>
