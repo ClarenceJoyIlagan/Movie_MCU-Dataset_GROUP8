@@ -260,7 +260,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 </div>
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/16337bcc-ac17-427c-8848-081eed6ad4c1">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4439f788-5015-4f3b-b67a-c4f17ded30b5">
 </p>
 <br>
 <br>
@@ -351,6 +351,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **OR Function**
+
 >The **OR function** is a logical function that allows you to perform a logical "OR" operation on multiple conditions. It returns TRUE if at least one of the specified conditions is true, and FALSE only if all of the conditions are false. Here's the basic syntax for this function is **=OR(logical1, logical2, logical3, ...)**
 
 >logical1, logical2, logical3, and so on are the conditions or logical tests you want to evaluate. You can include up to 255 different conditions.
@@ -371,6 +372,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **NOT Function**
+
 >The **NOT function** is a logical function that allows you to perform a logical "NOT" operation on a single condition. It returns TRUE if the specified condition is false and FALSE if the condition is true. The basic syntax for this function is **=NOT(logical)**
 
 >**logical** is the condition or logical test you want to evaluate.
@@ -387,6 +389,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 <br>
 
 **XOR Function**
+
 >The **XOR function** is a logical function that returns TRUE if one of its arguments is TRUE and FALSE if both arguments are TRUE or neither is TRUE. It is also known as the "exclusive OR" function.
 
 <br>
@@ -412,6 +415,7 @@ Information functions are a category of functions that provide various types of 
 <br>
 
 **ISEVEN Function**
+
 >The **ISEVEN function** is a logical function that returns TRUE if the specified number is even, and FALSE if the specified number is odd. The basic syntax for this function is **=ISEVEN(number)**
 
 
@@ -426,6 +430,7 @@ Information functions are a category of functions that provide various types of 
 <br>
 
 **ISODD Function**
+
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
 
@@ -442,6 +447,7 @@ Information functions are a category of functions that provide various types of 
 
 
 **ISNUMBER Function**
+
 >The **ISNUMBER function** is a logical function that returns TRUE if the specified value is a number, and FALSE if the specified value is not a number. The basic syntax for this is **ISNUMBER(value)**
 
 
@@ -458,6 +464,7 @@ Information functions are a category of functions that provide various types of 
 <br>
 
 **ISTEXT Function**
+
 >The **ISTEXT function** is a logical function that returns TRUE if the specified value is text, and FALSE if the specified value is not text. The basic syntax for this function is **=ISTEXT(value)**
 
 <br>
@@ -472,6 +479,7 @@ Information functions are a category of functions that provide various types of 
 
 
 **ISLOGICAL Function**
+
 >The **ISLOGICAL function** is a logical function that returns TRUE if the specified value is a logical value (TRUE or FALSE), and FALSE if the specified value is not a logical value. The basic syntax for this function is **=ISLOGICAL(value)**
 
 
@@ -504,6 +512,7 @@ Date and time functions are a category of functions used to work with date and t
 <br>
 
 **DAY, MONTH, YEAR Function**
+
 >The **DAY, MONTH, and YEAR functions** are date and time functions that return the day, month, and year of a date value, respectively. The basic syntax for these functions are;
 
 >**=DAY(date)** where date is the date value that you want to extract the day from. The MONTH function has the following syntax:
@@ -530,17 +539,43 @@ Date and time functions are a category of functions used to work with date and t
 
 **WEEKNUM Function**
 
+>The **WEEKNUM function** is a date and time function that returns the week number of a date serial number. The week number is based on the ISO standard, which defines the first week of the year as the week that contains the first Thursday of the year. The syntax for this function is **=WEEKNUM(serial_number, return_type)**
+where:
+
+>**serial_number** is the date serial number that you want to get the week number for.
+
+>**return_type** is an argument that controls which day of the week begins a new week number. The default value is 1, which sets new week numbers to start on Sunday. If you want new week numbers to start on Monday, set the return_type argument to 2.
+
+<br>
+
+<div align="center">
+  <strong>The WEEKNUM Fuction was used in this table to determine the date the film was released, in terms of the number of week>
+</div>
+
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/21c358fe-6520-4b9e-a4be-99f11978a913">
 </p>
+<br>
+<br>
 
 **DATE Function**
+
+>The **DATE function** is a date and time function that returns the date serial number that represents a particular date. The date serial number is a number that represents the number of days since January 1, 1900. The syntax for this function is **=DATE(year, month, day)**
+
+<br>
+<div align="center">
+  <strong>The DATE Fuction was used in this table for the serial date the films were released>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/23a9684b-548a-4cb8-be98-840c79457cf6">
 </p>
 
+<br>
+<br>
+
 **WEEKDAY Function**
+>The **WEEKDAY function** is a date and time function that returns the day of the week for a given date. The day of the week is returned as a number, with 1 representing Sunday and 7 representing Saturday. The syntax for this function is **=WEEKDAY(date, [return_type])**
 
 
 <p align="center">
@@ -549,7 +584,10 @@ Date and time functions are a category of functions used to work with date and t
 
 
 **EOMONTH Function**
+>The **EOMONTH function** is a date and time function that returns the last day of the month that is a specified number of months before or after a start date. The syntax for this function is **=EOMONTH(start_date, months)**
 
+>**start_date** is the date that you want to use as the starting point for the calculation.
+>**months** is the number of months before or after the start date that you want to return the last day of the month for. A positive value for months returns a future date, and a negative value for months returns a past date.
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/b2292e9a-a66b-4a51-bb1f-1717952d052a">
