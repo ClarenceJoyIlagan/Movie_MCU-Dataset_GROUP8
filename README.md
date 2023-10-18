@@ -603,8 +603,12 @@ where:
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/8b1fc936-7016-45ce-afcc-44c4e0de7e34">
 </p>
 
+![avengers group 8](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/20102374-ab9a-4ec2-a651-31c89e9de77d)
+
+
 ## **References**
 <br>
 - Ong, D. (2022, April, 22). Marvel Cinematic Universe Box Office Dataset. Kaggle . https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data
 
 - [Image of a Marvel Cinematic Universe Poster](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/defibp5-8019b091-dae8-426d-8276-7b6d15afcce8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg8). (n.d.)
+
