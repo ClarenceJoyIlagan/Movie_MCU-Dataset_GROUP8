@@ -596,6 +596,13 @@ where:
 
 </details>
 
+<p align="center">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/7eb1c9c7-cc83-42ce-bffe-b966c5e6604a">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/3cc65f3a-08c5-4624-a043-415a874946cd">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/c9473c0f-e3d3-427a-84c3-f519f3768ffe">
+  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/8b1fc936-7016-45ce-afcc-44c4e0de7e34">
+</p>
+
 ## **References**
 <br>
 - Ong, D. (2022, April, 22). Marvel Cinematic Universe Box Office Dataset. Kaggle . https://www.kaggle.com/datasets/davidgdong/marvel-cinematic-universe-box-office-dataset/data
