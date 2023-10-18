@@ -1,6 +1,11 @@
 # Marvel Cinematic Universe Box Office Dataset - Group 8
-**_Authors:_** _Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado_
+![marvel group8](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3dbd2a98-8e66-4a39-b06b-a6bf3f50b1cb)
+
+<div align="center">
+  <strong>Authors: Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado</strong>
+  </div>  
 <br>
+
 <br>
 <div align="center">
   <strong>This repository contains dashboards for Marvel Cinematic Universe Box Office Dataset starting from the year 2008 to year 2021.</strong>
