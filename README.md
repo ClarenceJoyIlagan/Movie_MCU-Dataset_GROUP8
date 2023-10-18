@@ -7,7 +7,7 @@
 ![marvel group8](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/3dbd2a98-8e66-4a39-b06b-a6bf3f50b1cb)
 
 <div align="center">
-  <div style="font-size: smaller;">
+  <div style="font-style: Autor one;">
   Authors: Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado
   </div>
 </div>  
@@ -32,7 +32,7 @@
 
 <div style="text-align: center;">
   <div align="center">
-    <h1>MCU DASHBOARD</h1>
+    <h1>𝗠𝗖𝗨 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗</h1>
   </div>
 </div>
 
@@ -47,9 +47,9 @@
 >In Microsoft Excel, the **TEXT function** is a function that allows you to format a numeric value as text based on a specified format code. You can use this function to display texts, numbers, dates, and times in a way that makes them more readable, user-friendly or adheres to a specific format. This function is valuable for creating custom-formatted labels, data exports, reports, and more. For this part, LEN function, UPPER function, LOWER function, Proper Function, and LEFT function will be shown.
 
 <details>
-  <summary>LEN Function</summary>
+  <summary>𝗟𝗘𝗡 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
   
->The **LEN function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
+>The **LEN Function** is used to count the number of characters in a given text string, including letters, numbers, symbols, and spaces. The basic syntax for this function  is **=LEN(text)**. 
 
 >For example, if cell A1 contains the text "Iron Man", then you can use **=LEN(A1)**. The result will be 8 as there are 8 characters in the text including letters, comma, and spaces.
   <p align="center">
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-  <summary>UPPER Function</summary>
+  <summary>𝗨𝗣𝗣𝗘𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **UPPER function** is a text function that is used to convert all the letters in a given text string to uppercase. It is a simple yet valuable tool for text manipulation and data processing. The basic syntax for this function is UPPER(text).
 
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary>LOWER Function</summary>
+  <summary>𝗟𝗢𝗪𝗘𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
   
 >The **LOWER function** is a text function used to convert all the letters in a given text string to lowercase. Same with UPPER function, it is also a fundamental tool for text manipulation and data processing. The basic syntax for this function is **=LOWER(text)**.
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-  <summary>PROPER Function</summary>
+  <summary>𝗣𝗥𝗢𝗣𝗘𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
   
 >The **PROPER function** is a text function used to capitalize the first letter of each word in a text string while converting the rest of the letters to lowercase. It is a valuable tool for text manipulation, especially when dealing with data where you want to ensure consistent and well-formatted capitalization. The basic syntax for this function is **=PROPER(text)**.
 
@@ -91,7 +91,7 @@
 </details>
 
 <details>
-  <summary>LEFT Function</summary>
+  <summary>𝗟𝗘𝗙𝗧 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **LEFT function** is a text function that is used to extract a specified number of characters from the beginning or on the left side of a text string. It is a simple yet highly important tool for text manipulation and data extraction tasks. The basic syntax for this function is **=LEFT(text, num_chars)**.
 
@@ -113,7 +113,7 @@
 >**Math Function** generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAX function, ROUND Function, and TRUNC function will be shown.
 
   <details>
-    <summary>SUM Function</summary>
+    <summary>𝗦𝗨𝗠 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **SUM function** is one of the most fundamental and widely used mathematical functions. It is essential for adding a range of numbers together. The basic syntax for this function is **=SUM(number1, number2, ...)**.
 
@@ -134,7 +134,7 @@
   </details>
 
   <details>
-    <summary>AVERAGE Function</summary>
+    <summary>𝗔𝗩𝗘𝗥𝗔𝗚𝗘 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **AVERAGE function** is a mathematical function used to calculate the average or arithmetic mean of a set of numbers. It is an essential tool for analyzing data and deriving a central tendency or average value. The basic syntax for this function is **=AVERAGE(number1, number2, ...)**
 
@@ -157,7 +157,7 @@
   </details>
 
   <details>
-    <summary>MIN & MAX Function</summary>
+    <summary>𝗠𝗜𝗡 & 𝗠𝗔𝗫 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **MIN and MAX Functions** are mathematical functions used to find the minimum (lowest) and maximum (highest) values within a range of numbers or cells, respectively. These functions are essential for various tasks, particularly when you need to identify the extremes or boundaries of a dataset.
 
@@ -182,7 +182,7 @@
   </details>
 
   <details>
-    <summary>ROUND Function</summary>
+    <summary>𝗥𝗢𝗨𝗡𝗗 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ROUND function** is a mathematical function used to round a number to a specified number of decimal places. It is important for several reasons and plays a critical role in various applications. The basic syntax for this function **is =ROUND(number, num_digits)**
 
@@ -196,7 +196,7 @@
   </details>
 
   <details>
-    <summary>TRUNC Function</summary>
+    <summary>𝗧𝗥𝗨𝗡𝗖 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **TRUNC function** is used to truncate a number to a specified number of decimal places. It essentially removes the decimal portion of a number, leaving only the integer part. The basic syntax for this function is **=TRUNC(number, [num digits])**.
 
@@ -221,7 +221,7 @@
 >Logical functions in Excel are a category of functions that help make decisions and perform calculations based on conditions or logical tests. These functions are crucial for creating more complex and dynamic spreadsheets, automating tasks, and performing data analysis. For this part of discussion, IF Function, AND Function, OR Function, NOT Function and OR Function will be used.
 
   <details>
-    <summary>IF Function</summary>
+    <summary>𝗜𝗙 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **IF function** is one of the most fundamental and widely used functions in Excel. It is essential for making logical decisions and performing different actions based on specific conditions. The IF function allows you to create conditional statements in your spreadsheets. The basic syntax for this function is **=IF(logical_test, value_if_true, value_if_false)**
 
@@ -247,7 +247,7 @@
   </details>
 
   <details>
-    <summary>AND Function</summary>
+    <summary>𝗔𝗡𝗗 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **AND function** is a logical function that allows you to perform a logical "AND" operation on multiple conditions. It returns TRUE if all the specified conditions are met, and FALSE if any one of the conditions is not met. The basic syntax for this function is **=AND(logical1, logical2, logical3, ...)**
 
@@ -268,7 +268,7 @@
   </details>
   
   <details>
-    <summary>OR Function</summary>
+    <summary>𝗢𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
  
 >The **OR function** is a logical function that allows you to perform a logical "OR" operation on multiple conditions. It returns TRUE if at least one of the specified conditions is true, and FALSE only if all of the conditions are false. Here's the basic syntax for this function is **=OR(logical1, logical2, logical3, ...)**
 
@@ -289,7 +289,7 @@
   </details>
 
   <details>
-    <summary>NOT Function</summary>
+    <summary>𝗡𝗢𝗧 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **NOT function** is a logical function that allows you to perform a logical "NOT" operation on a single condition. It returns TRUE if the specified condition is false and FALSE if the condition is true. The basic syntax for this function is **=NOT(logical)**
 
@@ -306,7 +306,7 @@
   </details>
 
   <details>
-    <summary>XOR Function</summary>
+    <summary>𝗫𝗢𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **XOR function** is a logical function that returns TRUE if one of its arguments is TRUE and FALSE if both arguments are TRUE or neither is TRUE. It is also known as the "exclusive OR" function.
 
@@ -318,11 +318,11 @@
 
 <br>
 <br>
-
+  </details>
 <div align="center">
 <strong>Logical functions are fundamental to creating dynamic and intelligent spreadsheets that respond to changing data or user inputs. They help streamline data analysis, automate tasks, and ensure that the spreadsheet's behavior adapts to specific conditions, making Excel a versatile tool for various purposes.</strong>
 </div>      
-  </details>
+
 </details>
 
 <details>
@@ -331,7 +331,7 @@
 >Information functions are a category of functions that provide various types of information about data, cells, or ranges within a spreadsheet. These functions are important for retrieving metadata, such as cell content, formatting, and characteristics. For this part of discussion, ISEVEN Function, ISODD Function, ISNUMBER Function, ISTEXT Function, and ISLOGICAL Function will be shown.
 
   <details>
-    <summary>ISEVEN Function</summary>
+    <summary>𝗜𝗦𝗘𝗩𝗘𝗡 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ISEVEN function** is a logical function that returns TRUE if the specified number is even, and FALSE if the specified number is odd. The basic syntax for this function is **=ISEVEN(number)**
 
@@ -347,7 +347,7 @@
   </details>
 
   <details>
-    <summary>ISODD Function</summary>
+    <summary>𝗜𝗦𝗢𝗗𝗗 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
@@ -363,7 +363,7 @@
   </details>
 
   <details>
-    <summary>ISNUMBER Function</summary>
+    <summary>𝗜𝗦𝗡𝗨𝗠𝗕𝗘𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ISNUMBER function** is a logical function that returns TRUE if the specified value is a number, and FALSE if the specified value is not a number. The basic syntax for this is **ISNUMBER(value)**
 <br>
@@ -377,7 +377,7 @@
   </details>
 
   <details>
-    <summary>ISTEXT Function</summary>
+    <summary>𝗜𝗦𝗧𝗘𝗫𝗧 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ISTEXT function** is a logical function that returns TRUE if the specified value is text, and FALSE if the specified value is not text. The basic syntax for this function is **=ISTEXT(value)**
 <br>
@@ -390,7 +390,7 @@
   </details>
 
   <details>
-    <summary>ISLOGICAL Function</summary>
+    <summary>𝗜𝗦𝗟𝗢𝗚𝗜𝗖𝗔𝗟 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **ISLOGICAL function** is a logical function that returns TRUE if the specified value is a logical value (TRUE or FALSE), and FALSE if the specified value is not a logical value. The basic syntax for this function is **=ISLOGICAL(value)**
 <br>
@@ -412,7 +412,7 @@
 >Date and time functions are a category of functions used to work with date and time values. These functions are crucial for managing, calculating, and formatting dates and times in spreadsheets. For this part of discussion, DAY, MONTH, YEAR Function, WEEKNUM Function, DATE Function, WEEKNUM Function and EO Function will be shown.
 
   <details>
-    <summaryDAY, MONTH, YEAR Function></summary>
+    <summary>𝗗𝗔𝗬, 𝗠𝗢𝗡𝗧𝗛, 𝗬𝗘𝗔𝗥 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **DAY, MONTH, and YEAR functions** are date and time functions that return the day, month, and year of a date value, respectively. The basic syntax for these functions are;
 
@@ -438,7 +438,7 @@
   </details>
 
   <details>
-    <summaryWEEKNUM Function></summary>
+    <summary>𝗪𝗘𝗘𝗞𝗡𝗨𝗠 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
       
 >The **WEEKNUM function** is a date and time function that returns the week number of a date serial number. The week number is based on the ISO standard, which defines the first week of the year as the week that contains the first Thursday of the year. The syntax for this function is **=WEEKNUM(serial_number, return_type)**
 where:
@@ -459,7 +459,7 @@ where:
   </details>
 
   <details>
-    <summary>DATE Function</summary>
+    <summary>𝗗𝗔𝗧𝗘 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **DATE function** is a date and time function that returns the date serial number that represents a particular date. The date serial number is a number that represents the number of days since January 1, 1900. The syntax for this function is **=DATE(year, month, day)**
 
@@ -474,7 +474,7 @@ where:
   </details>
 
   <details>
-    <summary>WEEKDAY Function</summary>
+    <summary>𝗪𝗘𝗘𝗞𝗗𝗔𝗬 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **WEEKDAY function** is a date and time function that returns the day of the week for a given date. The day of the week is returned as a number, with 1 representing Sunday and 7 representing Saturday. The syntax for this function is **=WEEKDAY(date, [return_type])**
 
@@ -484,7 +484,7 @@ where:
   </details>
 
   <details>
-    <summary>EOMONTH Function</summary>
+    <summary>𝗘𝗢𝗠𝗢𝗡𝗧𝗛 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
       
 >The **EOMONTH function** is a date and time function that returns the last day of the month that is a specified number of months before or after a start date. The syntax for this function is **=EOMONTH(start_date, months)**
 
@@ -506,7 +506,7 @@ where:
 >In Excel, "LOOKUP" generally refers to a category of functions used to search for and retrieve specific data from a table or range of values. There are several lookup functions in Excel and each of it serves a different purpose. For this part, VLOOKUP, MATCH, CHOOSE and AREAS Function will be shown.
 
   <details>
-    <summary>LOOKUP Function</summary>
+    <summary>𝗟𝗢𝗢𝗞𝗨𝗣 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
  
 >The **LOOKUP function** is used to find a specific value within a range of cells and return a corresponding value from another range. The basic syntax for this function is **=LOOKUP(lookup_value, lookup_vector, result_vector)**
 
@@ -529,7 +529,7 @@ where:
   </details>
 
   <details>
-    <summary>VLOOKUP Function</summary>
+    <summary>𝗩𝗟𝗢𝗢𝗞𝗨𝗣 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **VLOOKUP function** is one of the most commonly used and important functions for searching and retrieving data from a table or range. "V" in VLOOKUP stands for "vertical," indicating that it is used to search for values in a vertical column. The basic syntax for this function is **=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])**
 
@@ -554,7 +554,7 @@ where:
   </details>
 
   <details>
-    <summary>MATCH Function</summary>
+    <summary>𝗠𝗔𝗧𝗖𝗛 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **MATCH function** is used for finding the relative position of a specific value within a range or an array. It gives the position of the item you're looking for. The basic syntax for this function is **=MATCH(lookup_value, lookup_array, [match_type])**
 
@@ -575,7 +575,7 @@ where:
   </details>
 
   <details>
-    <summary>CHOOSE Function</summary>
+    <summary>𝗖𝗛𝗢𝗢𝗦𝗘 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
 
 >The **CHOOSE function** is a simple yet valuable function used to select and return a value from a list of choices based on a specified index number. It allows you to create custom lists or arrays of values and then pick a specific value from that list by providing the index number. The basic syntax for this function is **=CHOOSE(index_num, value1, value2, value3, ...)**
 
@@ -594,7 +594,7 @@ where:
   </details>
 
   <details>
-    <summary>AREAS Function</summary>
+    <summary>𝗔𝗥𝗘𝗔𝗦 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻</summary>
     
 >The **AREAS function** is a lookup and reference function that returns the number of areas in a reference. An area is a range of contiguous cells or a single cell. The basic syntax for this function is **=AREAS(reference)** where _reference_ is a reference to a cell or range of cells.
 
@@ -609,12 +609,41 @@ where:
 
 </details>
 
-<p align="center">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/7eb1c9c7-cc83-42ce-bffe-b966c5e6604a">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/3cc65f3a-08c5-4624-a043-415a874946cd">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/c9473c0f-e3d3-427a-84c3-f519f3768ffe">
-  <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/8b1fc936-7016-45ce-afcc-44c4e0de7e34">
-</p>
+  <div align="center">
+    <h1>𝗖𝗛𝗔𝗥𝗧𝗦</h1>
+  </div>
+</div>
+<img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/7eb1c9c7-cc83-42ce-bffe-b966c5e6604a">
+
+<details>
+  <summary>Movie Phase</summary>   
+  
+>For this Movie Phase Pie Chart, you can see that the Phase 1 and Phase 2 of MCU has the same amount of movies based on the dataset that we have used. As we all know, the Phase 1 of MCU is all about “Avengers Assembled.” This is when Marvel introduced us to each of the Avengers. Phase 2, on the other hand, handles the fallout of the Avengers. It could also be noticed that Phase 3 has the most amount of movies among them all. This is also where the famous, gut-wrenching, and emotionally devastating Infinity War and Avengers: End Game belongs. Phase 4 also seconds the ranking.
+</details>
+
+<img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/3cc65f3a-08c5-4624-a043-415a874946cd">
+
+<details>
+  <summary>Movie Duration</summary>   
+  
+>We all know that Marvel movies are famous for their always awaited post-credit scenes. What you can see here is a bar graph containing the movie duration of every Marvel film from the dataset. You can see the film titles on the horizontal axis while the vertical axis indicates the time duration in minutes. From this figure, you can perceive that Avengers: End Game has the longest duration among them all, followed by the Eternals and Spider-Man: No Way Home
+</details>
+
+<img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/c9473c0f-e3d3-427a-84c3-f519f3768ffe">
+
+<details>
+  <summary>Audience Score</summary>   
+  
+>This graph shows the audience scores of the movies. This is measured on how much the audiences enjoyed the following films. From this graph, it could be observed that the audience score for every MCU movie has always been generally high, with most of it scoring above 80%. However, it could also be noticed that there are still variations for this set of films. For example, the highest audience score is 98% for the Shang-Chi and the Legend of the Ten Rings (2021), while the lowest got 52%, which is for Captain Marvel (2019).
+></details>
+
+<img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/144228573/8b1fc936-7016-45ce-afcc-44c4e0de7e34">
+
+<details>
+  <summary>Sales</summary>   
+  
+>For this graph, you can see that there are obvious variations when it comes to sales. However, it is still noticeable how End Game and Infinity War got the highest sales among them all. This might be because of the huge devastation and cliff hanger the fans had felt during the end of Infinity War. Upon the release of Avengers: End Game, the fans had flocked to their own cinema house and witnessed themselves another tear-worthy goodbye. Coming second to the both movies is the crowd’s favorite, Spider-Man: No Way Home. Aside from its web story, Tom Holland, Tobey Maguire and Andrew Garfield in one film is never to be missed.
+></details>
 
 ![avengers group 8](https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/20102374-ab9a-4ec2-a651-31c89e9de77d)
 
