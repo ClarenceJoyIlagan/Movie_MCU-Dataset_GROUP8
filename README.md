@@ -423,13 +423,16 @@ Information functions are a category of functions that provide various types of 
 <div align="center">
   <strong>ISEVEN function was used in this table on determining whether the total movie duration is even or not>
 </div>
+    
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/6738b22a-f274-4a76-b06b-d3d55618e27f">
 </p>
+
 <br>
 <br>
 
 **ISODD Function**
+
 
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
@@ -439,9 +442,11 @@ Information functions are a category of functions that provide various types of 
 <div align="center">
   <strong>ISODD function was used in this table on determining whether the total movie duration is odd or not>
 </div>
+    
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/86562025-748f-4a16-9902-053fbd2a9924">
 </p>
+
 <br>
 <br>
 
@@ -506,8 +511,11 @@ Information functions are a category of functions that provide various types of 
 
 
 # DATE and TIME Functions
+
 <br>
+
 Date and time functions are a category of functions used to work with date and time values. These functions are crucial for managing, calculating, and formatting dates and times in spreadsheets. For this part of discussion, DAY, MONTH, YEAR Function, WEEKNUM Function, DATE Function, WEEKNUM Function and EO Function will be shown.
+
 <br>
 <br>
 
@@ -575,6 +583,7 @@ where:
 <br>
 
 **WEEKDAY Function**
+
 >The **WEEKDAY function** is a date and time function that returns the day of the week for a given date. The day of the week is returned as a number, with 1 representing Sunday and 7 representing Saturday. The syntax for this function is **=WEEKDAY(date, [return_type])**
 
 
@@ -584,6 +593,7 @@ where:
 
 
 **EOMONTH Function**
+
 >The **EOMONTH function** is a date and time function that returns the last day of the month that is a specified number of months before or after a start date. The syntax for this function is **=EOMONTH(start_date, months)**
 
 >**start_date** is the date that you want to use as the starting point for the calculation.
