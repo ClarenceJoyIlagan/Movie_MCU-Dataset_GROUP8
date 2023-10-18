@@ -207,7 +207,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 >**result_vector**: is the range of cells from which you want to retrieve the corresponding value. The result_vector should be in the same row or column as the lookup_vector.
 
 <br>
-<br>
+
 <div align="center">
   <strong>For this table of values, the LOOKUP Function was used to find the Marvel movies based on its release date</strong>
 </div>
@@ -230,7 +230,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 >**[range_lookup]** is typically either TRUE or FALSE (or 1 or 0). If you use TRUE or omit this argument, VLOOKUP will perform an approximate match, finding the closest match to the lookup_value. If you use FALSE or 0, it will perform an exact match.>
 
 <br>
-<br>
+
 <div align="center">
   <strong>For this dataset, the VLOOKUP Function was used to find what phase of MCU the film belongs</strong>
 </div>
@@ -252,7 +252,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 
 >**[match_type]** specifies the type of match you want to perform. For this example, the match type that was used oughts to find the exact match
 <br>
-<br>
+
 
 
 <div align="center">
@@ -272,7 +272,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 
 >**value1, value2, value3, ...** are the values that make up the list of choices.
 <br>
-<br>
+
 
 <div align="center">
   <strong>For this dataset, CHOOSE Function was used for allocating the Phase Titles of the MCU Films</strong>
@@ -291,7 +291,7 @@ In Excel, "LOOKUP" generally refers to a category of functions used to search fo
 </p>
 
 <br>
-<br>
+
 
 <div align="center">
 <strong>The importance of lookup functions in Excel cannot be overstated because they streamline data retrieval and make working with large datasets more efficient. They are crucial for tasks such as searching for customer data in databases, looking up inventory or product information or retrieving historical or financial data. They allow users to automate the process of searching for and retrieving specific information, saving time and reducing the risk of errors in data-related tasks.</strong>
@@ -314,6 +314,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 >**value_if_false** is the value that the function returns if the logical_test evaluates to FALSE.
 
+<br>
 <div align="center">
   <strong>This data used the IF Function by comparing the production budget for the films and its box office sales</strong>
 </div>
@@ -334,7 +335,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 >**logical1, logical2, logical3,** and so on are the conditions or logical tests you want to evaluate
 
-
+<br>
 <div align="center">
   <strong>For this dataset, AND Function was used to determine if all of the three sales are greater than the</strong>
 </div>
@@ -354,7 +355,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 >logical1, logical2, logical3, and so on are the conditions or logical tests you want to evaluate. You can include up to 255 different conditions.
 
-
+<br>
 <div align="center">
   <strong>For this table of values, OR Function was used to determine if either of the three sales are greater than the</strong>
 </div>
@@ -374,6 +375,7 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 >**logical** is the condition or logical test you want to evaluate.
 
+<br>
 <div align="center">
   <strong>For this dataset, NOT Function was used to negate the F column</strong>
 </div>
@@ -386,6 +388,8 @@ Logical functions in Excel are a category of functions that help make decisions 
 
 **XOR Function**
 >The **XOR function** is a logical function that returns TRUE if one of its arguments is TRUE and FALSE if both arguments are TRUE or neither is TRUE. It is also known as the "exclusive OR" function.
+
+<br>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/a06fc50f-d42e-4d67-ac18-4a2341c8ae9c">
@@ -410,7 +414,7 @@ Information functions are a category of functions that provide various types of 
 **ISEVEN Function**
 >The **ISEVEN function** is a logical function that returns TRUE if the specified number is even, and FALSE if the specified number is odd. The basic syntax for this function is **=ISEVEN(number)**
 
-<br>
+
 <br>
 <div align="center">
   <strong>ISEVEN function was used in this table on determining whether the total movie duration is even or not>
@@ -424,7 +428,7 @@ Information functions are a category of functions that provide various types of 
 **ISODD Function**
 >The **ISODD function** is a logical function that returns TRUE if the specified value is odd, and FALSE if the specified value is even. The basic syntax for this function is **=ISODD(value)**
 
-<br>
+
 <br>
 
 <div align="center">
@@ -440,7 +444,7 @@ Information functions are a category of functions that provide various types of 
 **ISNUMBER Function**
 >The **ISNUMBER function** is a logical function that returns TRUE if the specified value is a number, and FALSE if the specified value is not a number. The basic syntax for this is **ISNUMBER(value)**
 
-<br>
+
 <br>
 
 <div align="center">
@@ -457,7 +461,7 @@ Information functions are a category of functions that provide various types of 
 >The **ISTEXT function** is a logical function that returns TRUE if the specified value is text, and FALSE if the specified value is not text. The basic syntax for this function is **=ISTEXT(value)**
 
 <br>
-<br>
+
 
 <div align="center">
   <strong>ISTEXT function was used in this table on identifying whether the chosen values are text or not>
@@ -470,7 +474,7 @@ Information functions are a category of functions that provide various types of 
 **ISLOGICAL Function**
 >The **ISLOGICAL function** is a logical function that returns TRUE if the specified value is a logical value (TRUE or FALSE), and FALSE if the specified value is not a logical value. The basic syntax for this function is **=ISLOGICAL(value)**
 
-<br>
+
 <br>
 
 <div align="center">
@@ -500,12 +504,29 @@ Date and time functions are a category of functions used to work with date and t
 <br>
 
 **DAY, MONTH, YEAR Function**
+>The **DAY, MONTH, and YEAR functions** are date and time functions that return the day, month, and year of a date value, respectively. The basic syntax for these functions are;
 
+>**=DAY(date)** where date is the date value that you want to extract the day from. The MONTH function has the following syntax:
+
+>**=MONTH(date)** where date is the date value that you want to extract the month from.
+
+>**=YEAR(date)** where date is the date value that you want to extract the year from.
+
+<br>
+
+<div align="center">
+  <strong>The DAY, MONTH, and YEAR Functions were used in this data sheet in regards>
+</div>
+
+<div align="center">
+  <strong>to the release dates of the following Marvel movies>
+</div>
 
 <p align="center">
   <img src="https://github.com/aprilrhose/Movie_MCU-Dataset_GROUP8/assets/143881769/4915db68-b07e-431a-bcf2-a60b55ddd614">
 </p>
-
+<br>
+<br>
 
 **WEEKNUM Function**
 
