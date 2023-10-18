@@ -84,7 +84,7 @@ In Microsoft Excel, the **TEXT function** is a function that allows you to forma
 
 <details>
   <summary>Math Functions</summary>
-  Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAC function, ROUND Function, and TRUNC function will be shown.
+  Math Function generally refers to a category of mathematical functions and operations that can be performed in mathematical calculations within Excel and similar programs. For this part, SUM function, AVERAGE function, MIN & MAX function, ROUND Function, and TRUNC function will be shown.
 <br>
   <details>
     <summary>SUM Function</summary>
